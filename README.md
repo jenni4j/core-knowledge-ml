@@ -1,1 +1,1 @@
-# ml_with_pytorch_scikit
+# A collection of helpful tutorials, course notes and experiments on subjects relating to machine and deep learning. Relies heavily on courses from DeepLearning.ai as well as Sebastian Rashka's books and tutorials. 
